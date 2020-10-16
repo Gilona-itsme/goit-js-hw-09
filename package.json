@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Gilona-itsme/goit-js-hw-09/issues"
   },
-  "homepage": "https://github.com/Gilona-itsme/goit-js-hw-09#readme",
+  "homepage": "https://Gilona-itsme.github.io/goit-js-hw-09#readme",
   "dependencies": {
     "autoprefixer": "^10.0.1",
     "postcss-loader": "^4.0.4"
